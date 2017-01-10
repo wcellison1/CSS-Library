@@ -1,0 +1,15 @@
+body {
+	background-color: blue;
+}
+.first-class {
+	color: green;
+}
+.second-class {
+	font-size: 16px;
+}
+#number-one {
+	color: red;
+}
+#number-two {
+	font-size: 24px;
+}
