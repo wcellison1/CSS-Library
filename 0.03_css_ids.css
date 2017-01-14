@@ -1,14 +1,14 @@
 body {
-	background-color: blue;
+	background-color: orange;
 }
 .first-class {
 	color: green;
 }
 .second-class {
-	font-size: 16px;
+	font-size: 24px;
 }
 #number-one {
-	color: red;
+	color: blue;
 }
 #number-two {
 	font-size: 24px;
