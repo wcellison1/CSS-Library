@@ -3,8 +3,9 @@ body{
 }
 .css-classes {
 	background-color: red;
+	font-size: 24px;
 }
 .css-classes p{
-	font-size: 16px;
+	font-size: 24px;
 	color: navy;
 }
